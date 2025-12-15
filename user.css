@@ -1,0 +1,11 @@
+body {
+    font-family:  sans-serif !important;
+}
+
+code, pre, pre *, tt, kbd, samp {
+    font-family: monospace !important;
+}
+
+.katex, .katex * {
+    font-family: KaTeX_Main !important;
+}
